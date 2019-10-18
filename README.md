@@ -8,6 +8,8 @@ Create a similar diagram depicting the situation where the user creates a new no
 
 # 0.5: Single page app
 
+# 0.6: New note 
+
 
 
 
